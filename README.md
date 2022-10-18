@@ -1,3 +1,8 @@
+<!---
+0x9re9/0x9re9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
 ### Hi, I'm [0x9re9][website] 👋 
 
 - 👀 I’m interested in Blockchain developement
@@ -7,10 +12,8 @@
 [![Website](https://img.shields.io/website?label=0x9re9.hashnode.dev&style=for-the-badge&url=https%3A%2F%2F0x9re9.com)](https://0x9re9.hashnode.dev/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/0x9re9?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F0x9re9&screen_name=0x9re9)
 
-<!---
-0x9re9/0x9re9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -33,8 +36,12 @@ and more ...
 <br />
 <br />
 
+---
+
 ### 📕 Latest Blog Posts
-➡️ [more blog posts...][hashnode]
+- [more blog posts...][hashnode]
+
+---
 
 [website]: https://www.0x9re9.com/
 [twitter]: https://twitter.com/0x9re9
