@@ -38,8 +38,8 @@ and more ...
 
 ---
 
-### 📕 Latest Blog Posts
-- [read blog posts...][hashnode]
+### :newspaper: Latest Blog Posts
+- [Read blog posts...][hashnode]
 
 ---
 
