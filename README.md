@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-### Languages and Tools:
+### Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -39,9 +39,18 @@ and more ...
 ---
 
 ### 📕 Latest Blog Posts
-- [more blog posts...][hashnode]
+- [read blog posts...][hashnode]
 
 ---
+
+<details>
+  <summary>:zap: Links</summary>
+  
+<!--START_SECTION:activity-->
+- See my  [Smart-Contracts](https://www.0x9re9.com)
+<!--END_SECTION:activity-->
+
+</details>
 
 [website]: https://www.0x9re9.com/
 [twitter]: https://twitter.com/0x9re9
