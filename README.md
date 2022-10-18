@@ -6,11 +6,11 @@ You can click the Preview link to take a look at your changes.
 [![Website](https://img.shields.io/website?label=0x9re9.hashnode.dev&style=for-the-badge&url=https%3A%2F%2F0x9re9.com)](https://0x9re9.hashnode.dev/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/0x9re9?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F0x9re9&screen_name=0x9re9)
 
-### Hi, I'm [0x9re9][website] 👋 
+### Hi, I'm [0x9re9][website] 👋 a Blockchain Smart contract Developer, Fullstack, Network Researcher and Teacher !!
 
-- 👀 I’m interested in Blockchain developement
-- 🌱 I’m currently learning all about Web3
-- 💞️ I’m looking to collaborate on project
+- 👀 I’m interested in Blockchain developement.
+- 🌱 I’m currently learning all about Web3, front-end and back-end.
+- 💞️ I’m looking to collaborate with other Blockcahin developers.
 
 ---
 
