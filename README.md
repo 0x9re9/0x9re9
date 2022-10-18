@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @0x9re9
+### Hi, I'm [0x9re9][website] 👋 
+
 - 👀 I’m interested in Blockchain developement
 - 🌱 I’m currently learning all about Web3
 - 💞️ I’m looking to collaborate on project
@@ -31,3 +32,10 @@ You can click the Preview link to take a look at your changes.
 and more ...
 <br />
 <br />
+
+### 📕 Latest Blog Posts
+➡️ [more blog posts...][hashnode]
+
+[website]: https://www.0x9re9.com/
+[twitter]: https://twitter.com/0x9re9
+[hashnode]: https://0x9re9.hashnode.dev/
