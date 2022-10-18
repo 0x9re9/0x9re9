@@ -44,7 +44,7 @@ and more ...
 ---
 
 <details>
-  <summary>:zap: Links</summary>
+  <summary>### Links</summary>
   
 <!--START_SECTION:activity-->
 - See my  [Smart-Contracts](https://www.0x9re9.com)
