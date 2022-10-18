@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Hi, I'm [0x9re9][website] 👋 a Blockchain Smart contract Developer, Fullstack, Network Researcher and Teacher !!
 
-- 👀 I’m interested in Blockchain developement.
+- 👀 I’m interested in Blockchain development.
 - 🌱 I’m currently learning all about Web3, front-end and back-end.
 - 💞️ I’m looking to collaborate with other Blockcahin developers.
 
