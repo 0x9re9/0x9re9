@@ -33,8 +33,6 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 and more ...
-<br />
-<br />
 
 ---
 
@@ -47,7 +45,8 @@ and more ...
   <summary>:link: Links</summary>
   
 <!--START_SECTION:activity-->
-- See my  [Smart-Contracts](https://www.0x9re9.com)
+- See my [Smart Contracts & dApps Web3](https://github.com/0x9re9/developments_web3/)
+- See my [Project Web3](https://github.com/0x9re9/projects_web3/)
 <!--END_SECTION:activity-->
 
 </details>
