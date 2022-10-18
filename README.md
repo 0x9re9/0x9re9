@@ -44,7 +44,7 @@ and more ...
 ---
 
 <details>
-  ###<summary>Links</summary>
+  <summary>:link: Links</summary>
   
 <!--START_SECTION:activity-->
 - See my  [Smart-Contracts](https://www.0x9re9.com)
