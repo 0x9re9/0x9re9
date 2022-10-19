@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate with other Blockcahin developers.
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="512" height="384"/>
+  <img src="https://media2.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="256" height="192"/>
 </div>
 
 ### :computer: Languages and Tools
