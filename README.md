@@ -12,9 +12,9 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning all about Web3, front-end and back-end.
 - 💞️ I’m looking to collaborate with other Blockcahin developers.
 
+<div align="center">
   <img src="https://media2.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="512" height="384"/>
-
----
+</div>
 
 ### :computer: Languages and Tools
 
