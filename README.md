@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" height="300"/>
+  <img src="https://media2.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="512" height="384"/>
 </div>
 
 [![Website](https://img.shields.io/website?label=0x9re9.hashnode.dev&style=for-the-badge&url=https%3A%2F%2F0x9re9.com)](https://0x9re9.hashnode.dev/)
