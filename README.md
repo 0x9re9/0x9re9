@@ -40,6 +40,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <div>
+
 ### :newspaper: Latest Blog Posts
 - [Read blog posts...][hashnode]
 
