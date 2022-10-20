@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   <img src="https://media2.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="256" height="192"/>
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=0x9re9)]()
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=0x9re9)](github)
 </div>
 
 ### Hi, I'm [0x9re9][website] 👋 a Blockchain Smart contract Developer, Fullstack, Network Researcher and Teacher !!
@@ -62,6 +62,7 @@ You can click the Preview link to take a look at your changes.
 
 </div>
 
+[github]: https://github.com/0x9re9/
 [website]: https://www.0x9re9.com/
 [twitter]: https://twitter.com/0x9re9
 [hashnode]: https://0x9re9.hashnode.dev/
