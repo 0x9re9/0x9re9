@@ -5,6 +5,8 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
   <img src="https://media2.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="256" height="192"/>
+  
+  <br />
 
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/0x9re9?style=social">
 
