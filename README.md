@@ -18,6 +18,8 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning all about Web3, front-end and back-end.
 - 💞️ I’m looking to collaborate with other Blockcahin developers.
 
+---
+
 ### :computer: Languages and Tools
 
 <img align="left" alt="SOLIDITY" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" />
