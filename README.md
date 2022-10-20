@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 ### :computer: Languages and Tools
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
 
             <i class="devicon-html5-plain-wordmark colored"></i>
       
