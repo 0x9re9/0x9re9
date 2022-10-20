@@ -14,9 +14,9 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
   <img src="https://media2.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="256" height="192"/>
-</div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=0x9re9)](https://git.io/streak-stats)
+</div>
 
 ### :computer: Languages and Tools
 
