@@ -17,6 +17,8 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
+<div>
+
 ### :computer: Languages and Tools
 
 <img align="left" alt="SOLIDITY" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" />
@@ -35,6 +37,9 @@ You can click the Preview link to take a look at your changes.
 <br />
 <br />
 
+</div>
+
+<div>
 ### :newspaper: Latest Blog Posts
 - [Read blog posts...][hashnode]
 
@@ -49,6 +54,8 @@ You can click the Preview link to take a look at your changes.
 <!--END_SECTION:activity-->
 
 </details>
+
+</div>
 
 [website]: https://www.0x9re9.com/
 [twitter]: https://twitter.com/0x9re9
